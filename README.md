@@ -1,7 +1,7 @@
-# E-cooking
+# E-cooking (This is where most of my Analytics/ML projects will be displayed, please feel free to link up for collaborations)
 
 
 
 
-This is where most of my Analytics/ML projects will be displayed, please feel free to link up for collaborations
+
 IN THIS PROJECT I WILL BE WORKING WITH SOME ADVERTISING DATA SET, INDICATING WHETHER OR NOT A PARTICULAR INTERNET USER CLICKED ON AN ADVERTISEMENT. WE WILL TRY TO CREATE A MODEL THAT WILL PREDICT WHETHER OR NOT THEY WILL CHECK ON AN AD BASED OFF THE FEATURES OF THAT USER
